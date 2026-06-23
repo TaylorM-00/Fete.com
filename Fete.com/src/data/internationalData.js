@@ -1,0 +1,16 @@
+export const WEST_INDIAN_COUNTRIES = [
+  { name: 'Antigua & Barbuda',             flag: '🇦🇬' },
+  { name: 'Bahamas',                        flag: '🇧🇸' },
+  { name: 'Barbados',                       flag: '🇧🇧' },
+  { name: 'Belize',                         flag: '🇧🇿' },
+  { name: 'Dominica',                       flag: '🇩🇲' },
+  { name: 'Grenada',                        flag: '🇬🇩' },
+  { name: 'Guyana',                         flag: '🇬🇾' },
+  { name: 'Haiti',                          flag: '🇭🇹' },
+  { name: 'Jamaica',                        flag: '🇯🇲' },
+  { name: 'Saint Kitts & Nevis',            flag: '🇰🇳' },
+  { name: 'Saint Lucia',                    flag: '🇱🇨' },
+  { name: 'Saint Vincent & the Grenadines', flag: '🇻🇨' },
+  { name: 'Suriname',                       flag: '🇸🇷' },
+  { name: 'Trinidad & Tobago',              flag: '🇹🇹' },
+]
